@@ -1,2 +1,2 @@
-taxonID,locationID,locality,countryCode,waterBody,occurrenceStatus,establishmentMeans,pathway,eventDate,source
-AquaNIS:taxon:a,ISO_3166-2:IE,Ireland,IE,Celtic-Biscay Shelf,present,introduced,ballastWater,2020,"Baars, J.R., Caplice, M.B., Flynn, O., O’Leary, K., Swanwick, H. and Minchin, D.,2022. The Ponto-Caspian quagga mussel, Dreissena rostriformis bugensis Andrusov,1897, is established in Ireland. BioInvasions Records, 11."
+taxonID,locationID,locality,countryCode,occurrenceStatus,establishmentMeans,pathway,eventDate,source
+AquaNIS:taxon:a,ISO_3166-2:IE,Ireland,IE,present,introduced,ballastWater,2020-2021,"Baars, J.R., Caplice, M.B., Flynn, O., O’Leary, K., Swanwick, H. and Minchin, D.,2022. The Ponto-Caspian quagga mussel, Dreissena rostriformis bugensis Andrusov,1897, is established in Ireland. BioInvasions Records, 11."
