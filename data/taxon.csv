@@ -1,2 +1,2 @@
 language,license,rightsHolder,accessRights,datasetID,institutionCode,datasetName,taxonID,scientificName,kingdom,phylum,class,order,family,genus,taxonRank
-en,http://creativecommons.org/publicdomain/zero/1.0/,INBO,https://www.inbo.be/en/norms-data-use,https://doi.org/10.15468/3pmlxs,INBO,Test-AquaNIS,AquaNIS:taxon:a,"Dreissena bugensis (Andrusov, 1897)", Animalia,Mollusca,Bivalvia,Myida,Dreissenidae,Thecaphora,species
+en,http://creativecommons.org/publicdomain/zero/1.0/,INBO,https://www.inbo.be/en/norms-data-use,,INBO,Test-AquaNIS,AquaNIS:taxon:a,"Dreissena bugensis (Andrusov, 1897)", Animalia,Mollusca,Bivalvia,Myida,Dreissenidae,Thecaphora,species
